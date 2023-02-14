@@ -1,0 +1,12 @@
+﻿  236_PRACTICA04.cpp
+D:\videotutoriales\PRACTICAS_PLANTILLAS\PRACTICAS236CURSOSTL\PRACTICA04\236_PRACTICA04\236_PRACTICA04\236_PRACTICA04.cpp(32,15): warning C4244: 'return': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+D:\videotutoriales\PRACTICAS_PLANTILLAS\PRACTICAS236CURSOSTL\PRACTICA04\236_PRACTICA04\236_PRACTICA04\236_PRACTICA04.cpp(41,45): message : Vea la referencia a la creación de una instancia de la función plantilla "T potencia<int>(T,T)" que se está compilando
+          with
+          [
+              T=int
+          ]
+  236_PRACTICA04.vcxproj -> D:\videotutoriales\PRACTICAS_PLANTILLAS\PRACTICAS236CURSOSTL\PRACTICA04\236_PRACTICA04\x64\Debug\236_PRACTICA04.exe

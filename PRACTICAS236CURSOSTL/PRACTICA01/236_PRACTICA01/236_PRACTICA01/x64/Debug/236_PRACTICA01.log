@@ -1,0 +1,7 @@
+﻿  236_PRACTICA01.cpp
+D:\videotutoriales\PRACTICAS_PLANTILLAS\PRACTICAS236CURSOSTL\236_PRACTICA01\236_PRACTICA01\236_PRACTICA01.cpp(14,21): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  236_PRACTICA01.vcxproj -> D:\videotutoriales\PRACTICAS_PLANTILLAS\PRACTICAS236CURSOSTL\236_PRACTICA01\x64\Debug\236_PRACTICA01.exe

@@ -1,0 +1,5 @@
+﻿  236_PRACTICA08.cpp
+  ClassTemplate.cpp
+  Generando código...
+236_PRACTICA08.obj : error LNK2019: símbolo externo "public: int __cdecl ClassTemplate<int>::getValue(void)const " (?getValue@?$ClassTemplate@H@@QEBAHXZ) sin resolver al que se hace referencia en la función main
+D:\videotutoriales\PRACTICAS_PLANTILLAS\PRACTICAS236CURSOSTL\PRACTICA08\236_PRACTICA08\x64\Debug\236_PRACTICA08.exe : fatal error LNK1120: 1 externos sin resolver
